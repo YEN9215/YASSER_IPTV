@@ -14,7 +14,11 @@ https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF: -5, DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF: -6, CNN INGLES
+#EXTINF: -6, CNN /INGLES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0d53ae0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b54f2d2-61d4-44a5-87f0-acdcb705bfbd&userId=&serverSideAds=true
 
-#EXTINF: -7, 
+#EXTINF: -7, FOX SPORT /INGLES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0e1be00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d970664-d66d-404e-bde7-eff084cc9736&userId=&serverSideAds=true
+
+#EXTINF: -7, HELLS KITCHEN /ESPAÑOL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a12074b0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4334f2c8-88b5-42b4-99d4-2f006be49309&userId=&serverSideAds=true

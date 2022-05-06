@@ -78,3 +78,45 @@ https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Pan
 
 #EXTINF:
 https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4 #Name: iptvtools_145
+
+#EXTINF:
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8 #Name: iptvtools_2
+
+#EXTINF:
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 #Name: iptvtools_6
+
+#EXTINF:
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8 #Name: iptvtools_15
+
+#EXTINF:
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8 #Name: iptvtools_17
+
+#EXTINF:
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8 #Name: iptvtools_22
+
+#EXTINF:
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8 #Name: iptvtools_25
+
+#EXTINF:
+http://51.222.85.85:81/hls/loco/index.m3u8 #Name: iptvtools_28
+
+#EXTINF:
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8 #Name: iptvtools_38
+
+#EXTINF:
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8 #Name: iptvtools_39
+
+#EXTINF:
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8 #Name: iptvtools_40
+
+#EXTINF:
+https://v4.tustreaming.cl/tevexinter/index.m3u8 #Name: iptvtools_45
+
+#EXTINF:
+https://tv-trtworld.live.trt.com.tr/master.m3u8 #Name: iptvtools_46
+
+#EXTINF:
+http://cdnh4.iblups.com/hls/irtp.m3u8 #Name: iptvtools_47
+
+#EXTINF:
+https://america-crtvg.flumotion.com/playlist.m3u8 #Name: iptvtools_48

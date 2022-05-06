@@ -22,3 +22,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a6173797
 
 #EXTINF: -7, HELLS KITCHEN /ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a12074b0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4334f2c8-88b5-42b4-99d4-2f006be49309&userId=&serverSideAds=true
+
+#EXTINF: -8, ENLACE JUVENIL 
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8

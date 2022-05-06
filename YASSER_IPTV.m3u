@@ -25,3 +25,56 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073
 
 #EXTINF: -8, ENLACE JUVENIL 
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+
+
+#EXTINF:
+https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4 #Name: iptvtools_73
+
+#EXTINF:
+https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4 #Name: iptvtools_79
+
+
+#EXTINF:
+https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4 #Name: iptvtools_84
+
+#EXTINF:
+https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4 #Name: iptvtools_85
+
+#EXTINF:
+https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4 #Name: iptvtools_87
+
+
+#EXTINF:
+https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4 #Name: iptvtools_88
+
+#EXTINF:
+https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4 #Name: iptvtools_89
+
+
+#EXTINF:
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 #Name: iptvtools_108
+
+
+#EXTINF:
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8 #Name: iptvtools_110
+
+
+#EXTINF:
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8 #Name: iptvtools_125
+
+#EXTINF:
+https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300 #Name: iptvtools_126
+
+
+#EXTINF:
+http://www.djing.com/tv/dancefloor.m3u8 #Name: iptvtools_135
+
+#EXTINF:
+http://www.djing.com/tv/live.m3u8 #Name: iptvtools_138
+
+
+#EXTINF:
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4 #Name: iptvtools_143
+
+#EXTINF:
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4 #Name: iptvtools_145
